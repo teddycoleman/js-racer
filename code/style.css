@@ -9,19 +9,19 @@
 
 .track{
 	width: 100%;
-	background-image: url("/Users/teddycoleman/Downloads/running_track2.jpg");
+	background-image: url("./running_track2.jpg");
 	width: 100%;
 	height: 290px;	
 }
 
 #blue_square{
-	background-image: url("/Users/teddycoleman/Downloads/usain-bolt-2012-london-olympics.jpg");
+	background-image: url("./usain-bolt-2012-london-olympics.jpg");
 	background-size: cover;
 	top: 120px;
 }
 
 #red_square{
-	background-image: url("/Users/teddycoleman/Downloads/old_man_racer.jpg");
+	background-image: url("./old_man_racer.jpg");
 	background-size: cover;
 	top: 120px;
 }	
